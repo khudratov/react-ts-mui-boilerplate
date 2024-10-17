@@ -31,3 +31,4 @@ export default {
 
 TODO:
 • add formik and yup
+• add middleware for showing error on redux toolkit query
